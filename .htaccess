@@ -1,0 +1,3 @@
+<Directory /var/www/app/CC_App>
+   DirectoryIndex index.php
+</Directory>
